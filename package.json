@@ -1,0 +1,8 @@
+{
+  "name": "lambda-test",
+  "version": "1.0.0",
+  "description": "lambda-test",
+  "main": "index.js",
+  "author": "Paolo Scanferla",
+  "license": "MIT"
+}
